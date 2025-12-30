@@ -21,7 +21,7 @@ Install npm if you haven't already, then `cd` into the `gui` directory and run `
 
 ## 3. Build / Debug
 
-First run `npm install` to install dependencies. To debug, simply run `cargo tauri dev` inside the `gui` directory. To build release bundles of the app for the current system, run `cargo tauri tauri build`, and the bundles should end up somewhere under `target/release/bundle`.
+First run `npm install` to install dependencies. To debug, simply run `cargo tauri dev` inside the `gui` directory. To build release bundles of the app for the current system, run `cargo tauri build`, and the bundles should end up somewhere under `target/release/bundle`.
 
 
 If anything doesn't work here, feel free to ask in the Discord.
